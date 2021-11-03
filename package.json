@@ -1,0 +1,23 @@
+{
+  "name": "github-shortcuts",
+  "version": "1.0.0",
+  "description": "Shortcuts for github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-ui/github-shortcuts.git"
+  },
+  "author": "contact@jorge-ui.tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-ui/github-shortcuts/issues"
+  },
+  "homepage": "https://github.com/jorge-ui/github-shortcuts#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
